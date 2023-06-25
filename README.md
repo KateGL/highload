@@ -1,2 +1,2 @@
-# hightload
-Homework for OTUS hightload course
+# highload
+Homework for OTUS highload course
